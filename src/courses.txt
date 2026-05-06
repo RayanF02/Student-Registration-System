@@ -1,0 +1,3 @@
+COMP101 IntroProgramming
+COMP102 DataStructures COMP101
+COMP201 Algorithms COMP102
